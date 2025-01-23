@@ -1,6 +1,6 @@
 {
-    "name": "Darkened Blood",
-    "description": "A dark theme with red accents.",
+    "name": "Darkened Blossom",
+    "description": "A dark theme with blossom pink accents.",
     "authors": [
         {
             "name": "Purple_Ξye™"
@@ -11,7 +11,7 @@
             "#0E0E0F"
         ],
         "ANDROID_RIPPLE": [
-            "#B3000F5F"
+            "#E5A5B290"
         ],
         "BACKGROUND_ACCENT": [
             "#141415"
@@ -26,7 +26,7 @@
             "#0f0f10"
         ],
         "BACKGROUND_MENTIONED": [
-            "#CC001115"
+            "#E5A5B215"
         ],
         "BG_BASE_TERTIARY": [
             "#040405"
@@ -38,7 +38,7 @@
             "#09090A"
         ],
         "BG_BRAND": [
-            "#CC001195"
+            "#E5A5B295"
         ],
         "BG_SURFACE_RAISED": [
             "#0E0E0F"
@@ -53,7 +53,7 @@
             "#0E0E0F"
         ],
         "CHANNEL_ICON": [
-            "#CC001166"
+            "#E5A5B265"
         ],
         "EMBED_BACKGROUND": [
             "#111011"
@@ -62,37 +62,37 @@
             "#111011"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#CC0011"
+            "#E5A5B2"
         ],
         "INTERACTIVE_MUTED": [
             "#262627"
         ],
         "INTERACTIVE_NORMAL": [
-            "#CC0011"
+            "#E5A5B2"
         ],
         "PANEL_BG": [
             "#0C0C0D"
         ],
         "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
-            "#74000A"
+            "#b36b7f"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#74000A"
+            "#b36b7f"
         ],
         "REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#74000A"
+            "#b36b7f"
         ],
         "REDESIGN_BUTTON_SECONDARY_PRESSED_BACKGROUND": [
-            "#CC0011"
+            "#E5A5B2"
         ],
         "REDESIGN_BUTTON_SECONDARY_TEXT": [
             "#dbdee1"
         ],
         "REDESIGN_BUTTON_TERTIARY_TEXT": [
-            "#CC0011"
+            "#E5A5B2"
         ],
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-            "#b3003b"
+            "#E5A5B2"
         ],
         "TEXT_NORMAL": [
             "#dbdee1"
@@ -104,19 +104,19 @@
             "#b5bac1"
         ],
         "THREAD_CHANNEL_SPINE": [
-            "#CC0011"
+            "#E5A5B2"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#74000A"
+            "#b36b7f"
         ],
         "PREMIUM_NITRO_PINK_TEXT": [
-            "#CC0011"
+            "#E5A5B2"
         ],
         "TEXT_MUTED": [
-            "#818491"
+            "#949ba4"
         ],
         "TEXT_LINK": [
-            "#CC0011"
+            "#E5A5B2"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
             "#0E0E0F"
@@ -153,28 +153,29 @@
         ]
     },
     "rawColors": {
-        "BRAND_260": "#CC0011",
-        "BRAND_360": "#CC0011",
+        "BRAND_260": "#E5A5B2",
+        "BRAND_360": "#E5A5B2",
         "RED_400": "#F83838",
-        "BRAND_500": "#CC0011",
-        "BRAND_560": "#74000A",
-        "PLUM_13": "#CC0011",
+        "BRAND_500": "#E5A5B2",
+        "BRAND_560": "#b36b7f",
+        "PLUM_13": "#E5A5B2",
         "PLUM_14": "#1D1D21",
-        "PLUM_15": "#CC0011",
+        "PLUM_15": "#E5A5B2",
         "PLUM_16": "#1D1D21",
         "PLUM_17": "#0E0E0F",
         "PLUM_18": "#111011",
-        "PLUM_19": "#74000A",
+        "PLUM_19": "#b36b7f",
         "PLUM_20": "#09090A",
         "PLUM_22": "#0E0E0F",
         "PLUM_24": "#191919",
         "PRIMARY_500": "#1E1D1E",
         "PRIMARY_600": "#0b080d",
+        "PRIMARY_660": "#141314",
         "PRIMARY_800": "#111011"
     },
     "spec": 2,
     "plus": {
         "version": 0,
-        "mentionLineColor": "#CC0011"
+        "mentionLineColor": "#E5A5B2"
     }
 }
