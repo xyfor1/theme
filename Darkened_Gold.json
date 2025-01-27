@@ -154,6 +154,10 @@
     },
     "rawColors": {
         "BLUE_345": "#FFA90A",
+        "GREEN_430": "#FFA90A",
+        "RED_430": "#E02929",
+        "RED_460": "#AF2323",
+        "GREEN_460": "#BF6C00",
         "BRAND_260": "#FFA90A",
         "BRAND_360": "#FFA90A",
         "RED_400": "#F83838",
