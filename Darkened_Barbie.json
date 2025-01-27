@@ -11,7 +11,7 @@
             "#0E0E0F"
         ],
         "ANDROID_RIPPLE": [
-            "#ff00b390"
+            "#FF00B318"
         ],
         "BACKGROUND_ACCENT": [
             "#141415"
@@ -153,6 +153,11 @@
         ]
     },
     "rawColors": {
+        "BLUE_345": "#ff09b6",
+        "GREEN_430": "#ff09b6",
+        "RED_430": "#E02929",
+        "RED_460": "#AF2323",
+        "GREEN_460": "#99066F",
         "BRAND_260": "#ff09b6",
         "BRAND_360": "#ff09b6",
         "RED_400": "#F83838",
