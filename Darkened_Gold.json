@@ -150,6 +150,9 @@
         ],
         "BACKGROUND_MESSAGE_AUTOMOD_HOVER": [
             "#f23f431a"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#FFA90A14"
         ]
     },
     "rawColors": {
