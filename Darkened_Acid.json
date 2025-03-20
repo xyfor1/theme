@@ -62,7 +62,7 @@
             "#111011"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#FFFFFF"
+            "#90D806"
         ],
         "INTERACTIVE_MUTED": [
             "#262627"
@@ -110,7 +110,7 @@
             "#467200"
         ],
         "PREMIUM_NITRO_PINK_TEXT": [
-            "#90D806"
+            "#FFFFFF"
         ],
         "TEXT_MUTED": [
             "#818491"
